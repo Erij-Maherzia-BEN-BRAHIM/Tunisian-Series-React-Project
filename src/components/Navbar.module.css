@@ -1,0 +1,57 @@
+.navbar{
+    background-color: rgb(255, 0, 123);
+    color: white;
+   margin-top: 0;
+   margin-left: 0;
+   margin-right: 0;
+   display:flex;
+
+}
+.logo{
+    font-family: 'Bad Script', cursive;
+    padding-left: 10vh;
+    padding-top: 2vh;
+
+}
+.listLink{
+    padding: 2vh 10vh;
+    font-size: large;
+    float:right;
+
+}
+.link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-right: 35px;
+    font-family: 'Black Ops One', cursive;
+   
+
+
+}
+.link:hover{
+    color:gold;
+ 
+}
+
+.badge {
+    background-color: rgb(192, 255, 241);
+    color: rgb(255, 0, 123);
+    padding: 4px 8px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: x-small;
+  }
+.logout{
+    background-color: rgb(255, 0, 123);
+    color: white;
+    border: none;
+    margin-right: 35px;
+    font-family: 'Black Ops One', cursive;
+    font-size: large;
+
+
+}
+.logout:hover{
+    color:gold;
+ 
+}
